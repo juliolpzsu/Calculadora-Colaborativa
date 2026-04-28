@@ -1,0 +1,6 @@
+Java
+public class Division {
+    public static double calcular(double a, double b) {
+        return a / b;
+    }
+}
